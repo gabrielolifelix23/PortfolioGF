@@ -73,9 +73,9 @@ document.addEventListener("DOMContentLoaded", () => {
             id: 8,
             title: 'Campanha MimoVet - Primavera',
             category: 'Criação de Imagens',
-            image: 'assets/Prancheta6.jpg',
+            image: 'assets/CAMPANHAMIMOVET.jpg',
             description: 'Campanha promocional para MimoVet com tema de primavera e foco em animais de estimação.',
-            gallery: ['assets/Prancheta6.jpg']
+            gallery: ['assets/CAMPANHAMIMOVET.jpg']
         },
         {
             id: 9,
